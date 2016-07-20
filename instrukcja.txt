@@ -1,0 +1,23 @@
+						plik uderzenie-v2.rar:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+						   OPIS PROGRAMU:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Program s³u¿y do obliczania przyrostu ciœnienia w ruroci¹gu, wynikaj¹cego z uderzenia hydraulicznego
+(temat dziwny, wiem, ale to zwi¹zane z moj¹ magisterk¹ st¹d jest taki, a nie inny).
+
+Jako dane wejœciowe zadajemy parametry dotycz¹ce ruroci¹gu i cieczy, która nim p³ynie,
+mo¿na tez wybraæ domyœlne typy ruroci¹gów, które s¹ w praktyce najczêœciej stosowane.
+
+Jako wynik otrzymujemy prêdkoœc fali podwy¿szonego ciœnienia oraz przyrost ciœnienia, które pos³u¿¹ do analizy 
+rozk³adu ciœnienia i wyznaczenia naprê¿eñ powstaj¹cych w ruroci¹gu. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Przyk³adowe dane wejœciowe(w nawiasach podano przedzia³y poszczególnych wartoœci):
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ro - gêstoœæ cieczy p³yn¹cej rur¹; (450 - 1200 [kg/m3])
+dV - przyrost predkoœci przep³ywu cieczy; (0,1 - 5 [m/s])
+E - modu³ Younga materia³u, z którego wykonano rurê; ( 1 - 500 [MPa])
+k - modu³ œciœliwoœci cieczy; (2 - 9 [GPa])
+e - gruboœæ scian rury; (0,01 - 0,25 [m]) 	
+D - œrednica wewnêtrzna rury; (0,10 - 1,50 [m])
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
